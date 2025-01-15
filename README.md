@@ -21,13 +21,14 @@ Welcome to the classic **Snake Game**, where you control a snake to eat food, gr
 
 ## 🎨 Demo
 
-![URL]((https://js-snake-game-js.netlify.app/))
+[URL]((https://js-snake-game-js.netlify.app/))
 
 ## 🔧 Technologies Used
  - HTML5 for structuring the game layout.
  - CSS3 for styling the canvas and page.
  - JavaScript for game logic and interactivity.
- - 
+
+
 ## 📈 Game Rules
  - The snake moves in a grid-based system.
  - You control the snake's direction using the arrow keys.
