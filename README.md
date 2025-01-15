@@ -21,7 +21,7 @@ Welcome to the classic **Snake Game**, where you control a snake to eat food, gr
 
 ## 🎨 Demo
 
-[URL]((https://js-snake-game-js.netlify.app/))
+![Demo Link]((https://js-snake-game-js.netlify.app/))
 
 ## 🔧 Technologies Used
  - HTML5 for structuring the game layout.
